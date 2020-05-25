@@ -1,0 +1,13 @@
+body {
+  background-color: #ABCDEF;
+}
+h1 {
+  font-family: fantasy;
+  color: white;
+  margin-left: 20px;
+}
+
+p {font-family: fantasy;
+  font-size: 14;
+color: maroon;
+margin-left: 20px;}
